@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data and model outputs (downloaded / generated locally)
+data/
+checkpoints/
+*.pt
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
